@@ -1,0 +1,1 @@
+python3 main.py --location-ids 7940 --before 2023-01-01 --limit 5 --silent
